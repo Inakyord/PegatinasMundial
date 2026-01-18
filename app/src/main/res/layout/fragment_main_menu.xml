@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/banner_header"
+        android:layout_marginBottom="24dp"
+        android:contentDescription="@string/app_name" />
+
+    <Button
+        android:id="@+id/btn_full_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_full_list"
+        android:textSize="18sp"
+        android:padding="16dp"
+        android:backgroundTint="@color/colorPrimary"/>
+
+    <Button
+        android:id="@+id/btn_favorite_country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/menu_favorite_country"
+        android:textSize="18sp"
+        android:padding="16dp"
+        android:backgroundTint="@color/colorAccent"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btn_input_stickers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/menu_input_stickers"
+        android:textSize="18sp"
+        android:padding="16dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btn_nivel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/menu_nivel"
+        android:textSize="18sp"
+        android:padding="16dp"
+        android:backgroundTint="@color/colorSecondary"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

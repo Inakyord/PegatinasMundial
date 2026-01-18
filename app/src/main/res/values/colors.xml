@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color> <!-- Green 500 -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Green 700 -->
+    <color name="colorAccent">#FFC107</color> <!-- Amber 500 -->
+    <color name="colorSecondary">#8BC34A</color> <!-- Light Green -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    
+    <color name="background_light">#F5F5F5</color>
+    <color name="headers_bg">#EEEEEE</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <color name="status_missing">#E57373</color> <!-- Red -->
+    <color name="status_owned">#81C784</color>   <!-- Green -->
+    <color name="status_repeated">#64B5F6</color> <!-- Blue -->
+</resources>
