@@ -10,6 +10,7 @@
     {
       "pais": "Catar",
       "codigo": "QAT",
+      "iso_pais": "QA",
       "jugadores": [
         { "nombre": "SAAD ALSHEEB", "posicion": "PO", "edad": 32, "club": "Al Sadd SC (QAT)", "estatura": 188 },
         { "nombre": "PEDRO MIGUEL", "posicion": "DF", "edad": 32, "club": "Al Sadd SC (QAT)", "estatura": 180 },
@@ -42,6 +43,7 @@
     {
       "pais": "Ecuador",
       "codigo": "ECU",
+      "iso_pais": "EC",
       "jugadores": [
         { "nombre": "GALINDEZ Hernan", "posicion": "PO", "edad": 35, "club": "SD Aucas (ECU)", "estatura": 189 },
         { "nombre": "TORRES Felix", "posicion": "DF", "edad": 25, "club": "Club Santos Laguna (MEX)", "estatura": 187 },
@@ -74,6 +76,7 @@
     {
       "pais": "Senegal",
       "codigo": "SEN",
+      "iso_pais": "SN",
       "jugadores": [
         { "nombre": "DIENG Seny", "posicion": "PO", "edad": 27, "club": "Queens Park Rangers FC (ENG)", "estatura": 195 },
         { "nombre": "MENDY Formose", "posicion": "DF", "edad": 21, "club": "Amiens SC (FRA)", "estatura": 191 },
@@ -106,6 +109,7 @@
     {
       "pais": "Países Bajos",
       "codigo": "NED",
+      "iso_pais": "NL",
       "jugadores": [
         { "nombre": "PASVEER Remko", "posicion": "PO", "edad": 39, "club": "AFC Ajax (NED)", "estatura": 188 },
         { "nombre": "TIMBER Jurrien", "posicion": "DF", "edad": 21, "club": "AFC Ajax (NED)", "estatura": 179 },
@@ -138,6 +142,7 @@
     {
       "pais": "Inglaterra",
       "codigo": "ENG",
+      "iso_pais": "GB",
       "jugadores": [
         { "nombre": "PICKFORD Jordan", "posicion": "PO", "edad": 28, "club": "Everton FC (ENG)", "estatura": 185 },
         { "nombre": "WALKER Kyle", "posicion": "DF", "edad": 32, "club": "Manchester City FC (ENG)", "estatura": 178 },
@@ -170,6 +175,7 @@
     {
       "pais": "Irán",
       "codigo": "IRN",
+      "iso_pais": "IR",
       "jugadores": [
         { "nombre": "BEIRANVAND Alireza", "posicion": "PO", "edad": 30, "club": "Perspolis Tehran (IRN)", "estatura": 194 },
         { "nombre": "MOHARRAMI Sadegh", "posicion": "DF", "edad": 26, "club": "GNK Dinamo Zagreb (CRO)", "estatura": 174 },
@@ -201,6 +207,7 @@
     {
       "pais": "Estados Unidos",
       "codigo": "USA",
+      "iso_pais": "US",
       "jugadores": [
         { "nombre": "TURNER Matt", "posicion": "PO", "edad": 28, "club": "Arsenal FC (ENG)", "estatura": 190 },
         { "nombre": "DEST Sergino", "posicion": "DF", "edad": 22, "club": "AC Milan (ITA)", "estatura": 173 },
@@ -233,6 +240,7 @@
     {
       "pais": "Gales",
       "codigo": "WAL",
+      "iso_pais": "GB",
       "jugadores": [
         { "nombre": "HENNESSEY Wayne", "posicion": "PO", "edad": 35, "club": "Nottingham Forest FC (ENG)", "estatura": 198 },
         { "nombre": "GUNTER Chris", "posicion": "DF", "edad": 33, "club": "AFC Wimbledon (ENG)", "estatura": 180 },
@@ -265,6 +273,7 @@
     {
       "pais": "Argentina",
       "codigo": "ARG",
+      "iso_pais": "AR",
       "jugadores": [
         { "nombre": "ARMANI Franco", "posicion": "PO", "edad": 36, "club": "CA River Plate (ARG)", "estatura": 189 },
         { "nombre": "FOYTH Juan", "posicion": "DF", "edad": 24, "club": "Villarreal CF (ESP)", "estatura": 188 },
@@ -297,6 +306,7 @@
     {
       "pais": "Arabia Saudita",
       "codigo": "KSA",
+      "iso_pais": "SA",
       "jugadores": [
         { "nombre": "MOHAMMED ALYAMI", "posicion": "PO", "edad": 25, "club": "Al Ahli SC (KSA)", "estatura": 190 },
         { "nombre": "SULTAN ALGHANNAM", "posicion": "DF", "edad": 28, "club": "Al Nassr FC (KSA)", "estatura": 173 },
@@ -329,6 +339,7 @@
     {
       "pais": "México",
       "codigo": "MEX",
+      "iso_pais": "MX",
       "jugadores": [
         { "nombre": "TALAVERA Alfredo", "posicion": "PO", "edad": 40, "club": "FC Juárez (MEX)", "estatura": 188 },
         { "nombre": "ARAUJO Nestor", "posicion": "DF", "edad": 31, "club": "Club América (MEX)", "estatura": 187 },
@@ -361,6 +372,7 @@
     {
       "pais": "Polonia",
       "codigo": "POL",
+      "iso_pais": "PL",
       "jugadores": [
         { "nombre": "SZCZESNY Wojciech", "posicion": "PO", "edad": 32, "club": "Juventus FC (ITA)", "estatura": 195 },
         { "nombre": "CASH Matty", "posicion": "DF", "edad": 25, "club": "Aston Villa FC (ENG)", "estatura": 185 },
@@ -393,6 +405,7 @@
     {
       "pais": "Francia",
       "codigo": "FRA",
+      "iso_pais": "FR",
       "jugadores": [
         { "nombre": "LLORIS Hugo", "posicion": "PO", "edad": 35, "club": "Tottenham Hotspur FC (ENG)", "estatura": 188 },
         { "nombre": "PAVARD Benjamin", "posicion": "DF", "edad": 26, "club": "FC Bayern München (GER)", "estatura": 186 },
@@ -425,6 +438,7 @@
     {
       "pais": "Australia",
       "codigo": "AUS",
+      "iso_pais": "AU",
       "jugadores": [
         { "nombre": "RYAN Mathew", "posicion": "PO", "edad": 30, "club": "FC København (DEN)", "estatura": 184 },
         { "nombre": "DEGENEK Milos", "posicion": "DF", "edad": 28, "club": "Columbus Crew SC (USA)", "estatura": 187 },
@@ -457,6 +471,7 @@
     {
       "pais": "Dinamarca",
       "codigo": "DEN",
+      "iso_pais": "DK",
       "jugadores": [
         { "nombre": "SCHMEICHEL Kasper", "posicion": "PO", "edad": 36, "club": "OGC Nice (FRA)", "estatura": 190 },
         { "nombre": "ANDERSEN Joachim", "posicion": "DF", "edad": 26, "club": "Crystal Palace FC (ENG)", "estatura": 192 },
@@ -489,6 +504,7 @@
     {
       "pais": "Túnez",
       "codigo": "TUN",
+      "iso_pais": "TN",
       "jugadores": [
         { "nombre": "MATHLOUTHI Aymen", "posicion": "PO", "edad": 38, "club": "Étoile Du Sahel (TUN)", "estatura": 182 },
         { "nombre": "IFA Bilel", "posicion": "DF", "edad": 32, "club": "Al Kuwait SC (KUW)", "estatura": 185 },
@@ -521,6 +537,7 @@
     {
       "pais": "España",
       "codigo": "ESP",
+      "iso_pais": "ES",
       "jugadores": [
         { "nombre": "SANCHEZ Robert", "posicion": "PO", "edad": 25, "club": "Brighton & Hove Albion FC (ENG)", "estatura": 197 },
         { "nombre": "AZPILICUETA Cesar", "posicion": "DF", "edad": 33, "club": "Chelsea FC (ENG)", "estatura": 178 },
@@ -553,6 +570,7 @@
     {
       "pais": "Costa Rica",
       "codigo": "CRC",
+      "iso_pais": "CR",
       "jugadores": [
         { "nombre": "NAVAS Keylor", "posicion": "PO", "edad": 35, "club": "Paris Saint-Germain FC (FRA)", "estatura": 185 },
         { "nombre": "CHACON Daniel", "posicion": "MC", "edad": 21, "club": "Colorado Rapids (USA)", "estatura": 183 },
@@ -585,6 +603,7 @@
     {
       "pais": "Alemania",
       "codigo": "GER",
+      "iso_pais": "DE",
       "jugadores": [
         { "nombre": "NEUER Manuel", "posicion": "PO", "edad": 36, "club": "FC Bayern München (GER)", "estatura": 193 },
         { "nombre": "RUEDIGER Antonio", "posicion": "DF", "edad": 29, "club": "Real Madrid CF (ESP)", "estatura": 190 },
@@ -617,6 +636,7 @@
     {
       "pais": "Japón",
       "codigo": "JPN",
+      "iso_pais": "JP",
       "jugadores": [
         { "nombre": "KAWASHIMA Eiji", "posicion": "PO", "edad": 39, "club": "RC Strasbourg (FRA)", "estatura": 185 },
         { "nombre": "YAMANE Miki", "posicion": "DF", "edad": 28, "club": "Kawasaki Frontale (JPN)", "estatura": 178 },
@@ -649,6 +669,7 @@
     {
       "pais": "Bélgica",
       "codigo": "BEL",
+      "iso_pais": "BE",
       "jugadores": [
         { "nombre": "COURTOIS Thibaut", "posicion": "PO", "edad": 30, "club": "Real Madrid CF (ESP)", "estatura": 199 },
         { "nombre": "ALDERWEIRELD Toby", "posicion": "DF", "edad": 33, "club": "Royal Antwerp FC (BEL)", "estatura": 186 },
@@ -681,6 +702,7 @@
     {
       "pais": "Canadá",
       "codigo": "CAN",
+      "iso_pais": "CA",
       "jugadores": [
         { "nombre": "ST. CLAIR Dayne", "posicion": "PO", "edad": 25, "club": "Minnesota United FC (USA)", "estatura": 191 },
         { "nombre": "JOHNSTON Alistair", "posicion": "DF", "edad": 24, "club": "CF Montréal (CAN)", "estatura": 180 },
@@ -713,6 +735,7 @@
     {
       "pais": "Marruecos",
       "codigo": "MAR",
+      "iso_pais": "MA",
       "jugadores": [
         { "nombre": "BOUNOU Yassine", "posicion": "PO", "edad": 31, "club": "Sevilla FC (ESP)", "estatura": 190 },
         { "nombre": "HAKIMI Achraf", "posicion": "DF", "edad": 24, "club": "Paris Saint-Germain FC (FRA)", "estatura": 181 },
@@ -745,6 +768,7 @@
     {
       "pais": "Croacia",
       "codigo": "CRO",
+      "iso_pais": "HR",
       "jugadores": [
         { "nombre": "LIVAKOVIC Dominik", "posicion": "PO", "edad": 27, "club": "GNK Dinamo Zagreb (CRO)", "estatura": 188 },
         { "nombre": "STANISIC Josip", "posicion": "DF", "edad": 22, "club": "FC Bayern München (GER)", "estatura": 186 },
@@ -777,6 +801,7 @@
     {
       "pais": "Brasil",
       "codigo": "BRA",
+      "iso_pais": "BR",
       "jugadores": [
         { "nombre": "ALISSON", "posicion": "PO", "edad": 30, "club": "Liverpool FC (ENG)", "estatura": 193 },
         { "nombre": "DANILO", "posicion": "DF", "edad": 31, "club": "Juventus FC (ITA)", "estatura": 184 },
@@ -809,6 +834,7 @@
     {
       "pais": "Serbia",
       "codigo": "SRB",
+      "iso_pais": "RS",
       "jugadores": [
         { "nombre": "DMITROVIC Marko", "posicion": "PO", "edad": 30, "club": "Sevilla FC (ESP)", "estatura": 194 },
         { "nombre": "PAVLOVIC Strahinja", "posicion": "DF", "edad": 21, "club": "FC Red Bull Salzburg (AUT)", "estatura": 194 },
@@ -841,6 +867,7 @@
     {
       "pais": "Suiza",
       "codigo": "SUI",
+      "iso_pais": "CH",
       "jugadores": [
         { "nombre": "SOMMER Yann", "posicion": "PO", "edad": 33, "club": "VfL Borussia Monchengladbach (GER)", "estatura": 183 },
         { "nombre": "FERNANDES Edimilson", "posicion": "DF", "edad": 26, "club": "FSV Mainz 05 (GER)", "estatura": 190 },
@@ -873,6 +900,7 @@
     {
       "pais": "Camerún",
       "codigo": "CMR",
+      "iso_pais": "CM",
       "jugadores": [
         { "nombre": "NGAPANDOUETNBU Simon", "posicion": "PO", "edad": 19, "club": "Olympique Marseille (FRA)", "estatura": 186 },
         { "nombre": "NGOM MBEKELI Jerome", "posicion": "DF", "edad": 24, "club": "Colombe Sportive (CMR)", "estatura": 174 },
@@ -905,6 +933,7 @@
     {
       "pais": "Portugal",
       "codigo": "POR",
+      "iso_pais": "PT",
       "jugadores": [
         { "nombre": "RUI PATRICIO", "posicion": "PO", "edad": 34, "club": "AS Roma (ITA)", "estatura": 189 },
         { "nombre": "DIOGO DALOT", "posicion": "DF", "edad": 23, "club": "Manchester United FC (ENG)", "estatura": 184 },
@@ -937,6 +966,7 @@
     {
       "pais": "Ghana",
       "codigo": "GHA",
+      "iso_pais": "GH",
       "jugadores": [
         { "nombre": "ZIGI Lawrence Ati", "posicion": "PO", "edad": 25, "club": "FC St. Gallen (SUI)", "estatura": 188 },
         { "nombre": "LAMPTEY Tariq", "posicion": "DF", "edad": 22, "club": "Brighton & Hove Albion FC (ENG)", "estatura": 170 },
@@ -969,6 +999,7 @@
     {
       "pais": "Uruguay",
       "codigo": "URU",
+      "iso_pais": "UY",
       "jugadores": [
         { "nombre": "MUSLERA Fernando", "posicion": "PO", "edad": 36, "club": "Galatasaray SK (TUR)", "estatura": 190 },
         { "nombre": "GIMENEZ Jose Maria", "posicion": "DF", "edad": 27, "club": "CA Atlético Madrid (ESP)", "estatura": 185 },
@@ -1001,6 +1032,7 @@
     {
       "pais": "Corea del Sur",
       "codigo": "KOR",
+      "iso_pais": "KR",
       "jugadores": [
         { "nombre": "KIM Seunggyu", "posicion": "PO", "edad": 32, "club": "Al Shabab FC (KSA)", "estatura": 187 },
         { "nombre": "YOON Jonggyu", "posicion": "DF", "edad": 24, "club": "FC Seoul (KOR)", "estatura": 173 },
