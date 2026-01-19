@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Pegatinas Mundial 2022</string>
+    
+    <!-- Menu Principal -->
+    <string name="menu_full_list">Lista completa</string>
+    <string name="menu_favorite_country">País favorito</string>
+    <string name="menu_input_stickers">Ingresar estampas</string>
+    <string name="menu_logout">Cerrar Sesión</string>
+
+    <!-- GPS / Favorite Country -->
+    <string name="detecting_location">Detectando ubicación...</string>
+    <string name="location_permission_rationale">Necesitamos tu ubicación para determinar tu país favorito.</string>
+    <string name="favorite_country_found">¡País detectado: %1$s!</string>
+    <string name="favorite_country_not_found">No se detectó un país participante. Por favor selecciona uno.</string>
+    <string name="select_favorite_country">Selecciona tu país favorito</string>
+
+    <!-- Input Stickers -->
+    <string name="input_stickers_title">Ingresar nuevas estampas</string>
+    <string name="input_hint">Escribe los números (ej: 4, 12, ARG3)</string>
+    <string name="btn_add">Añadir</string>
+
+    <!-- Nivel -->
+    <string name="menu_nivel">Nivel de Estampas</string>
+    <string name="nivel_title">Nivel de Precisión</string>
+    <string name="nivel_instruction">Coloca el móvil sobre el álbum</string>
+    <string name="nivel_leveled">¡PERFECTO!</string>
+    <string name="nivel_unleveled">Ajusta la posición...</string>
+
+    <!-- Detail Extra Info -->
+    <string name="detail_age">Edad: %1$d años</string>
+    <string name="detail_club">Club: %1$s</string>
+    <string name="detail_height">Altura: %1$d cm</string>
+    <string name="detail_position_desc">Posición: %1$s</string>
+</resources>
